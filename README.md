@@ -55,9 +55,11 @@ Each processor includes MIPS assembly test programs, all of which execute correc
 - Executes supported instructions correctly in any order  
 - Provides a more realistic model of modern pipelined CPU designs  
 
-## Pipeline Diagram  
+## Pipeline Diagram
 
-![Pipeline Diagram](https://github.com/user-attachments/assets/de06308d-68fe-4d67-93e5-d7f3cf3c073d)  
+
+![Pipeline Diagram](https://github.com/user-attachments/assets/de06308d-68fe-4d67-93e5-d7f3cf3c073d)
+_*Diagram for Hardware-Scheduled Pipeline_
 
 The 5-stage pipeline includes:  
 
